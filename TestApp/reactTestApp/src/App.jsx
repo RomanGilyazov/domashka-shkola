@@ -15,8 +15,8 @@ return (
         <SecondFrame text1="Стрессоустойчивость"/>
         <SecondFrame text1="Умею договариваться (ха-ха-ха)"/>
         <SecondFrame text1="Всё, больше ничего не умею"/>
-        <Kompetent name="Я бы хотел улучщить работу в команде" img src="src/img/work.jpg" />
-        <Kompetent name="Я бы хотел хорошо владеть навыками веб программрования" img src="src/img/web.jpg"/>
+        <Kompetent name="Я бы хотел улучщить работу в команде" img src="https://rsv.ru/blog/wp-content/uploads/2020/12/rabota-komandy-918x516.jpg" />
+        <Kompetent name="Я бы хотел хорошо владеть навыками веб программрования" img src="https://lab4web.ru/views/lab4web/img/block/textblock/web-programmirovanie.jpg"/>
         <Kompetent name="Я хочу улучшить навык Тайм-менеджмента" img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCnPvX6YovjOm6AJWSXaJlUxUxRNCxUV0x76op2nju-Q&s"/>
         <Kompetent name="Я хочу понять деловой этикет" img src="https://www.brialdi.ru/upload/resize_cache/iblock/91b/660_400_1/91b0939b7045dba886f0212b5489e8c9.jpg"/>
         <Kompetent name="Я хочу продвигаться в способности к самостоятельному обучению" img src="https://ecvdo.ru/assets/images/papka-nova-1/samostoyatelnij-student.jpg" marginTop="-1365px" 

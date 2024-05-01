@@ -4,7 +4,7 @@ const Frame = (props) => {
   return (
     <div className="frame">
       <div className="photos">      
-        <img src="src/img/Head.cj.jpg"/>
+        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a7/Head.cj.jpg/640px-Head.cj.jpg"/>
       </div>
       <div className="text">
         <h1>{props.name}</h1>
