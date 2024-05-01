@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #948a8a;
+    color: #ffffffe3;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+}
+
+
+
+.frame {
+  border: 2px solid #ffffffe3; 
+  padding: 40px;
+  width: 200px;
+  margin: 20px;
+  position: relative
+}
+
+.photos {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.photos img {
+  width: 100%;
+}
+
+.text h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 16px;
+}
+
+.Secondframe {
+  border: 2px solid #ffffffe3; 
+  padding: 40px;
+  width: 200px;
+  margin: 20px;
+  position: relative
+}
+
+.text1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.Kompetent {
+  border: 2px solid #ffffffe3; 
+  padding: 40px;
+  width: 200px;
+  margin: 20px;
+  position: relative;
+  top: -1224px;
+  left: 400px;
+}
+
+.photos1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.photos1 img {
+  width: 100%; 
+}
+
